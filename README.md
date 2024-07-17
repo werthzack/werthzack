@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @werthzack
+- 👀 I’m interested in Game Dev and Python Back-end
+- 🌱 I’m currently learning Python
+- 📫 How to reach me Linkedln
+- ⚡ Fun fact: I'm a human
