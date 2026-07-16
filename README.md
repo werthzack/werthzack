@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Tim! I build backend-focused server projects and love experimenting with new technologies.<br><br>Some of my favorite projects:  <br>- NC News <br>- Doodle Duel<br><br>Current Focus: Doodle Quest<br><br>Feel free to check out my projects and reach out if you want to chat and collaborate!<br>
+👋 Hi, I'm Tim! I build backend-focused server projects and love experimenting with new technologies.<br><br>Some of my favorite projects:  <br>- NC News <br>- Doodle Duel<br><br>Current Focus: NowPlayingOverlay<br><br>Feel free to check out my projects and reach out if you want to chat and collaborate!<br>
 
 
 ## 🌐 Socials:
